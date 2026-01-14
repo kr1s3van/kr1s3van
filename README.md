@@ -1,4 +1,4 @@
-# <h1 align="center"> Hi there :3 , I'm kr1s3van </h1>
+# <h1 align="center"> Hi there :3 , I'm Kris-Evan </h1>
 
 I'm a **Software Engineering** Student based in Ottawa at **University of Ottawa** . I am passionate about building impactful solutions and exploring the world of web development and data science.
 
