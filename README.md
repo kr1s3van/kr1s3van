@@ -1,4 +1,4 @@
-# Hi there 👋, I'm kr1s3van
+# Hi there :3 , I'm kr1s3van
 
 I'm a **Software Engineering** Student based in Ottawa at **University of Ottawa** . I am passionate about building impactful solutions and exploring the world of web development and data science.
 
@@ -22,7 +22,10 @@ I'm a **Software Engineering** Student based in Ottawa at **University of Ottawa
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![XML](https://img.shields.io/badge/xml-%235E97D0.svg?style=for-the-badge&logo=xml&logoColor=white)
 
 #### 📊 Data Science & Audio Analysis
@@ -31,17 +34,9 @@ I'm a **Software Engineering** Student based in Ottawa at **University of Ottawa
 
 #### ☁️ Infrastructure, OS & Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kr1s3van&show_icons=true&theme=radical&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1s3van&layout=compact&theme=radical&cache_seconds=1800" height="180" />
-</p>
 
 ---
 
