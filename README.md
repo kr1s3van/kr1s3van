@@ -37,13 +37,13 @@ I'm a **Software Engineering** Student based in Ottawa at **University of Ottawa
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kr1s3van&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1s3van&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kr1s3van&show_icons=true&theme=radical&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1s3van&layout=compact&theme=radical&cache_seconds=1800" height="180" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
 <!-- This is a placeholder for the snake animation we will set up next -->
 ![snake gif](https://github.com/kr1s3van/kr1s3van/blob/output/github-contribution-grid-snake.svg)
