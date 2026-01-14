@@ -1,4 +1,4 @@
-# Hi there :3 , I'm kr1s3van
+# <h1 align="center"> Hi there :3 , I'm kr1s3van </h1>
 
 I'm a **Software Engineering** Student based in Ottawa at **University of Ottawa** . I am passionate about building impactful solutions and exploring the world of web development and data science.
 
@@ -41,4 +41,6 @@ I'm a **Software Engineering** Student based in Ottawa at **University of Ottawa
 ---
 
 <!-- This is a placeholder for the snake animation we will set up next -->
-![snake gif](https://github.com/kr1s3van/kr1s3van/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kr1s3van/kr1s3van/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
