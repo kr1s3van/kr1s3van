@@ -38,8 +38,8 @@ I'm a **Software Engineering** Student based in Ottawa at **University of Ottawa
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kr1s3van&show_icons=true&theme=vision-friendly-dark" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1s3van&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kr1s3van&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1s3van&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
