@@ -3,6 +3,7 @@
 I'm a **Software Engineering** Student based in Ottawa at **University of Ottawa** . I am passionate about building impactful solutions and exploring the world of web development and data science.
 
 -  Fun fact: **Coding is easier with a good cup of coffee :3**
+-  My portfolio: https://kris-portfolio-rho.vercel.app/
 -  How to reach me: **bngue079@uottawa.ca**
 
 ---
